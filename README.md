@@ -1,4 +1,4 @@
-# Simple Token Sale Contracts
+# Dhash Token Sale Contracts
 
 [Simple Token][website-url] is the bridge between crypto-currencies and mainstream consumer apps. Learn more about the project in the [documentation][documentation-url].
 
